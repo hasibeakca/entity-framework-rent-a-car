@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RentACar.Business.deps.json
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RentACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\ref\RentACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RentACar.Business.pdb
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RentACar.DAL.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RentACar.DAL.pdb
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.CopyComplete
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\ref\RentACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RentACar.Business.pdb

@@ -1,0 +1,12 @@
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RenACar.Business.deps.json
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RenACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\ref\RenACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\bin\Debug\net5.0\RenACar.Business.pdb
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\ref\RenACar.Business.dll
+C:\Users\HASİBE\Source\Repos\RentACar\RenACar.Business\obj\Debug\net5.0\RenACar.Business.pdb
